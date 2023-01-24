@@ -1,5 +1,5 @@
 Feature: Free CRM Create Contacts
-#Changes Made
+
 Scenario Outline: Free CRM Create a new contact scenario
 
 Given user is already on Login Page
